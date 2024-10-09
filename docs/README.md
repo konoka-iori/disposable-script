@@ -26,3 +26,9 @@ batファイルにJSONファイルをドラッグアンドドロップしたら�
 エスケープされたものはtxt形式でJSONファイルと同じディレクトリに保存されます。
 
 [gemini-discord-bot](https://github.com/konoka-iori/gemini-discord-bot)などで使う用として作成。
+
+### clear_logs.sh
+
+ログファイルを削除するスクリプトです。
+
+ログディレクトリ内のすべてのファイルを削除するので、実行には十分注意してください。
